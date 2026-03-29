@@ -3,7 +3,12 @@
 A real-time car racing game implemented on FPGA using **Verilog**, featuring VGA-based rendering, sprite management, pseudo-random behavior, and hardware-level collision detection.
 
 - **Course**: COL215 (Digital Logic & System Design) — IIT Delhi  
-- **Focus**: Rival Car Integration (Part III)  
+- **Focus**: Rival Car Integration 
+
+---
+<img width="549" height="432" alt="image" src="https://github.com/user-attachments/assets/7925de2c-d371-4b88-9484-24f27f75ae64" />
+
+
 
 ---
 
