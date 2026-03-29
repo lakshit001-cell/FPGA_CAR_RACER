@@ -76,7 +76,10 @@ Rendering follows a **priority-based MUX pipeline**:
   Handles game states:
   - `START` → Waiting for input  
   - `PLAY` → Active gameplay  
-  - `CRASH` → Collision detected  
+  - `CRASH` → Collision detected
+
+    <img width="698" height="478" alt="image" src="https://github.com/user-attachments/assets/dd92b490-7004-41b0-99b9-2a4c6f63f9e1" />
+
 
 ---
 
