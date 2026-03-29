@@ -8,6 +8,9 @@ A real-time car racing game implemented on FPGA using **Verilog**, featuring VGA
 ---
 <img width="549" height="432" alt="image" src="https://github.com/user-attachments/assets/7925de2c-d371-4b88-9484-24f27f75ae64" />
 
+<img width="456" height="354" alt="image" src="https://github.com/user-attachments/assets/1e752f0d-4ed1-4191-b7ff-3d6854e64b73" />
+
+
 
 
 ---
