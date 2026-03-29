@@ -98,17 +98,7 @@ Rendering follows a **priority-based MUX pipeline**:
     - 4-bit Green  
     - 4-bit Blue  
 
----
 
-## 📂 File Structure
-
-```
-├── Display_sprite.v   # Core rendering + VGA sync logic
-├── rival_car_rom      # ROM for enemy car sprite
-├── main_car_rom       # ROM for player car sprite
-├── bg_rom             # Background texture (road)
-└── README.md
-```
 
 ---
 
@@ -160,8 +150,3 @@ This project demonstrates:
 - Integration of control logic, memory, and display systems  
 - Practical implementation of digital design concepts in an interactive application  
 
----
-
-## 📌 Note
-
-This project showcases how **low-level hardware design** can be used to build fully interactive real-time systems without relying on high-level software frameworks.
